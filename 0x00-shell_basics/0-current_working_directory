@@ -1,3 +1,3 @@
 #!/bin/bash
-path:"pwd"
-echo: This this is the real path
+pwd
+echo "This This is the real path"
