@@ -1,3 +1,2 @@
 #!/bin/bash
 pwd
-echo "This This is the real path"
