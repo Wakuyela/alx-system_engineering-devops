@@ -1,1 +1,1 @@
-Shell permission scripts
+Shell scrips altering file permissions
